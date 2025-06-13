@@ -4,7 +4,7 @@
 
 ## 커뮤니티
 
-- 인터넷 강의: [AI 리터러시 (생성형 AI시대에 알아야 할 기초 지식들)](https://www.inflearn.com/course/ai-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C-%EC%83%9D%EC%84%B1%ED%98%95ai-%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
+- 인터넷 강의: [AI 리터러시 (생성형 AI시대에 알아야 할 기초 지식들)](https://inf.run/PXpzP)
 - 카카오톡 오픈채팅: [AI 리터러시](https://open.kakao.com/o/g60PShzh)
 
 ## 기여
