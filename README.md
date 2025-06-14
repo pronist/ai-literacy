@@ -22,13 +22,13 @@
     - [AI 오케스트레이션](12-Orchestration.md)
     - [멀티에이전트](18-Multi-agent.md)
 04. 언어모델
-    - [학습](19-Learning.md)
-    - [파인튜닝](20-Fine-tuning.md)
-    - [토크나이저](21-Tokenizer.md)
-    - [트랜스포머](22-Transformer.md)
-    - [BERT](23-BERT.md)
-    - [어텐션](24-Attention.md)
-    - [샘플링 전략](25-Sampling.md)
+    - [학습](20-Learning.md)
+    - [파인튜닝](21-Fine-tuning.md)
+    - [토크나이저](22-Tokenizer.md)
+    - [트랜스포머](23-Transformer.md)
+    - [BERT](24-BERT.md)
+    - [어텐션](25-Attention.md)
+    - [샘플링 전략](26-Sampling.md)
 
 ## 커뮤니티
 
