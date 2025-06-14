@@ -105,7 +105,3 @@
 - Temperature 값이 높을수록 결과에 어떤 변화가 생기나요?
 - 정보 요약과 창작 콘텐츠 작성 시, 각각 어떤 샘플링 전략이 적합할까요?
 - presence_penalty와 frequency_penalty는 어떤 역할을 하나요?
-
----
-
-[어텐션](24-Attention.md) ← 이전

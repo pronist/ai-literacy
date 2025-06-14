@@ -209,7 +209,3 @@
 - 양방향 Self-Attention이 문장 이해에 어떻게 도움이 되나요?
 - BERT의 변형 모델(RoBERTa, MiniLM 등)은 어떤 목적에서 사용될까요?
 - 실무에서 BERT가 특히 효과적인 업무 사례는 무엇인가요?
-
----
-
-[트랜스포머](22-Transformer.md) ← 이전 / 다음 → [어텐션](24-Attention.md)

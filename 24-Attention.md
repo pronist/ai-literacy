@@ -531,7 +531,3 @@ Self-Attention 시 마스킹 처리 (Look-Ahead Mask)
 - Masking이 없는 경우 어떤 문제가 발생할 수 있을까요?
 - Query, Key, Value 각각의 역할을 도서관 비유로 설명해볼 수 있나요?
 - 어텐션 메커니즘이 문맥 이해를 높이는 원리는 무엇인가요?
-
----
-
-[BERT](24-BERT.md) ← 이전 / 다음 → [샘플링 전략](25-Sampling.md)
