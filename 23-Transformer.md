@@ -17,7 +17,7 @@
 - 임베딩을 통해 벡터로 바뀐 자연어는 숫자 배열로 구성되며, 다차원 공간에서 표현될 수 있습니다. 
 - 내부적으로 유사도를 계산(내적; Scaled Dot Product)하여 다른 표현이지만 비슷한 의미를 가진 말들을 이해할 수 있게 됩니다.
 
-> [OpenAI Platform](https://platform.openai.com/docs/pricing#embeddings)에서 `text-embedding-3-small`이 텍스트 임베딩을 위한 전용 모델이라 볼 수 있습니다.
+> 텍스트를 임베딩하기 위한 전용 모델도 있습니다. 이를 임베딩 모델(Embedding Models)이라고 하며, [OpenAI Platform](https://platform.openai.com/docs/pricing#embeddings)에서 `text-embedding-3-large`, `text-embedding-3-small`와 같은 모델들이 텍스트 임베딩을 위한 전용 모델이라 볼 수 있습니다.
 
 ```
 ┌───────────────────────────────┐ 
