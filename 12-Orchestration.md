@@ -501,6 +501,8 @@ hooks.slack.com과(와) 대화 완료
 
 > GPTs에서는 사용자가 직접 API Spec을 작성해야 하지만, MCP는 서비스 제공자가 이 과정을 대신해줍니다.
 
+> [MCP Severs](https://github.com/modelcontextprotocol/servers)에서 수많은 서비스에서 제공하는 MCP Server들을 찾아볼 수 있습니다.
+
 ### 원리
 
 ```
