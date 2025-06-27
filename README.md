@@ -32,7 +32,7 @@
 
 ## 커뮤니티
 
-- 인터넷 강의: [AI 리터러시 (생성형 AI시대에 알아야 할 기초 지식들)](https://inf.run/PXpzP)
+- 인터넷 강의: [AI 리터러시: 비전공자를 위한 생성형 AI 입문](https://inf.run/PXpzP)
 - 카카오톡 오픈채팅: [AI 리터러시](https://open.kakao.com/o/g60PShzh)
 
 ## 기여
